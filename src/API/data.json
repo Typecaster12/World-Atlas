@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "India",
+        "capital": "New Delhi",
+        "population": "1.4 billion",
+        "interestingFacts": [
+            "India is the world's largest democracy.",
+            "The game of chess originated in India.",
+            "India has the second-largest population in the world."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Japan",
+        "capital": "Tokyo",
+        "population": "125 million",
+        "interestingFacts": [
+            "Japan has more than 6,800 islands.",
+            "It is home to the world’s oldest company, founded in 578 AD.",
+            "Vending machines are extremely common in Japan—there’s one for every 23 people."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": "214 million",
+        "interestingFacts": [
+            "Brazil is the largest country in South America.",
+            "It’s home to the Amazon Rainforest.",
+            "Football is the most popular sport in Brazil."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Canada",
+        "capital": "Ottawa",
+        "population": "39 million",
+        "interestingFacts": [
+            "Canada has the longest coastline in the world.",
+            "It has two official languages: English and French.",
+            "More than half of the lakes in the world are located in Canada."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "France",
+        "capital": "Paris",
+        "population": "68 million",
+        "interestingFacts": [
+            "France is the most visited country in the world.",
+            "It is the birthplace of cinema.",
+            "The Eiffel Tower was originally intended to be dismantled after 20 years."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Australia",
+        "capital": "Canberra",
+        "population": "26 million",
+        "interestingFacts": [
+            "Australia is the only continent covered by a single country.",
+            "It has more kangaroos than people.",
+            "The Great Barrier Reef is the world's largest coral reef system."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Germany",
+        "capital": "Berlin",
+        "population": "83 million",
+        "interestingFacts": [
+            "Germany is known for its engineering and automobile industry.",
+            "It is home to over 1,500 types of sausages.",
+            "Oktoberfest in Munich is the world’s largest beer festival."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Egypt",
+        "capital": "Cairo",
+        "population": "110 million",
+        "interestingFacts": [
+            "Egypt is home to the ancient pyramids and the Sphinx.",
+            "The Nile is the longest river in the world.",
+            "Hieroglyphics were the formal writing system of ancient Egypt."
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Kanpur, Uttar Pradesh"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "7307667283"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "harshmishra2997@gmail.com"
+    }
+]
