@@ -1,12 +1,60 @@
-# React + Vite
+# World Atlas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+World Atlas is a responsive web application built with React that allows users to explore all countries around the globe. Users can view a complete list of countries and access detailed information about each country individually. The project utilizes modern tools and libraries for seamless navigation, data fetching, and attractive UI elements.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Browse All Countries:** View a comprehensive list of countries worldwide.
+- **Country Details:** Click on any country to see in-depth details including population, capital, region, flag, and more.
+- **Responsive Design:** Optimized for all devices—desktop, tablet, and mobile.
+- **Smooth Navigation:** Fast, client-side routing with React Router DOM.
+- **Live Data Fetching:** Get up-to-date country information using Axios.
+- **Modern UI Elements:** Enhanced interface with React Icons.
 
-## Expanding the ESLint configuration
+## Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://react.dev/)
+- [React Router DOM](https://reactrouter.com/)
+- [Axios](https://axios-http.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js & npm installed
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/world-atlas.git
+   ```
+2. **Navigate to the project folder:**
+   ```bash
+   cd world-atlas
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
+
+The application will be available at [http://localhost:3000](http://localhost:3000).
+
+## Usage
+
+- Browse the list of countries.
+- Click on a country card to see more information.
+- Enjoy a seamless, responsive experience on any device.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+For questions or suggestions, feel free to open an issue or contact the maintainer.
