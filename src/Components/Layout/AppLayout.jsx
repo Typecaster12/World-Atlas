@@ -1,6 +1,7 @@
 import Header from '../UI/Header';
 import Footer from '../UI/Footer';
 import { Outlet } from 'react-router-dom';
+import ChatBot from '../UI/ChatBot';
 
 const AppLayout = () => {
     return (
@@ -9,6 +10,7 @@ const AppLayout = () => {
             <Header />
             <Outlet />
             <Footer />
+            <ChatBot />
         </>
     )
 }
