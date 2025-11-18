@@ -18,8 +18,6 @@ const ChatBot = () => {
 
   // Initialize Gemini AI when component mounts
   useEffect(() => {
-    // Get API key from environment variable
-    // The API key should be stored in .env file as VITE_GEMINI_API_KEY=your_actual_key
     const API_KEY = import.meta.env.VITE_GEMINI_API_KEY || "YOUR_GEMINI_API_KEY";
     const model = initializeGemini(API_KEY);
     setGeminiModel(model);
